@@ -1,0 +1,6 @@
+title: Tom's Stuff
+permalink: /:year/:month/:title
+excerpt_separator: <!--more-->
+
+sass:
+  style: compressed

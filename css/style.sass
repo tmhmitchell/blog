@@ -1,0 +1,87 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Roboto&display=swap')
+
+$base-color: #178bff
+$dark-color: #005fcb
+
+// Globa/base declarations
+body
+  font-family: 'Roboto', sans-serif
+  scroll-behavior: smooth
+
+a
+  color: $base-color
+  text-decoration: none
+
+  &:active, &:hover
+    color: $dark-color
+
+.part-width
+  justify-content: center
+
+  @media (min-width: 576px)
+    width: 70vw
+
+  @media (min-width: 992px)
+    width: 50vw
+
+.grid
+  display: grid
+  max-width: 100vw
+  justify-content: center
+
+%title
+  font-family: 'Nanum Pen Script', cursive
+  text-align: center
+  color: black
+
+  // Fix weird padding
+  margin-top: 0px
+  margin-bottom: 0px
+  padding-top: 50px
+  padding-bottom: 25px
+
+// Stuff on index page
+.main-title
+  @extend %title
+
+  // Extra size settings
+  font-size: 7.5em
+  letter-spacing: 5px
+
+// Post-blob section on index page
+.post-blob
+  margin-bottom: 50px
+
+.post-blob-header
+  display: flex
+  justify-content: space-between
+  padding-bottom: 5px
+
+.post-blob-title
+  margin-top: 0px
+  margin-bottom: 0px
+
+.post-blob-date
+  margin-top: 0px
+  margin-bottom: 0px
+  padding-top: 10px
+
+.post-blob-excerpt
+  // Jekyll's post.excerpt is a bit funny, so apply rules to all sub-elements 
+  *
+    margin-top: 0px
+    margin-bottom: 0px
+
+// Stuff on post pages
+.post-title
+  @extend %title
+
+  font-size: 5em
+
+.post-date
+  margin-top: 0px
+  margin-bottom: 25px
+  text-align: center
