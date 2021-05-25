@@ -1,0 +1,9 @@
+links:
+  - title: Posts
+    url: /
+  - title: Search
+    url: /search
+  - title: About
+    url: /about
+  - title: RSS
+    url: /atom.xml

@@ -1,7 +1,52 @@
-title: Tom Mitchell
-permalink: /:year/:month/:title
-excerpt_separator: <!--more-->
-exclude: [CNAME]
+site: "blog"
+url: "https://tmitchell.uk"
+title: "Tom Mitchell"
+description: "Blog"
+author:
+  name: "Tom"
+  email: ""
+permalink: pretty
+
+baseurl: ""
+
+highlighter: none
+
+exclude:
+  - .jekyll-cache
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
 
 sass:
-  style: compressed
+  sass_dir: _sass
+  style: :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
