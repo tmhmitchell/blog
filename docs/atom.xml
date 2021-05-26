@@ -4,13 +4,26 @@
  <title>Tom Mitchell</title>
  <link href="https://tmitchell.uk/atom.xml" rel="self"/>
  <link href="https://tmitchell.uk/"/>
- <updated>2021-05-26T18:52:39+01:00</updated>
+ <updated>2021-05-26T20:09:39+01:00</updated>
  <id>https://tmitchell.uk</id>
  <author>
    <name>Tom</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>A family of geese</title>
+   <link href="https://tmitchell.uk/2021/05/26/goslings"/>
+   <updated>2021-05-26T00:00:00+01:00</updated>
+   <id>https://tmitchell.uk/2021/05/26/goslings</id>
+   <content type="html">&lt;p&gt;I saw a family of geese while on the way to work this morning.&lt;/p&gt;
+
+&lt;p&gt;My phone made them very blurry!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3.fr-par.scw.cloud/tmitchell.uk/2021/05/goslings.jpg&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>View From Riverside #2</title>
