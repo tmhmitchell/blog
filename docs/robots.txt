@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tmitchell.uk/sitemap.xml
