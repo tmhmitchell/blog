@@ -4,13 +4,27 @@
  <title>Tom Mitchell</title>
  <link href="https://tmitchell.uk/atom.xml" rel="self"/>
  <link href="https://tmitchell.uk/"/>
- <updated>2021-05-26T20:09:39+01:00</updated>
+ <updated>2021-05-27T22:05:49+01:00</updated>
  <id>https://tmitchell.uk</id>
  <author>
    <name>Tom</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Computer Architecture and Logic Design</title>
+   <link href="https://tmitchell.uk/2021/05/27/bartee"/>
+   <updated>2021-05-27T00:00:00+01:00</updated>
+   <id>https://tmitchell.uk/2021/05/27/bartee</id>
+   <content type="html">&lt;p&gt;This book was a recommended read for a university module I took called “Computer Architecture and Systems Software 1”. I recall a few friends and I (all taking that class, and being a bit naive)  ended up buying all the paperback copies on Amazon. Not because we’re scalpers, mind, but because it’s ~25 year old textbook - there just weren’t many available.&lt;/p&gt;
+
+&lt;p&gt;Given it was an older book, everyone else managed to get a copy for a single penny. I say everyone else because I was a bit slow to the draw - and ended up paying £20! Worst of all, I don’t think I did anything more in-depth than skim read a few sections. Not my best purchase, that’s for certain!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3.fr-par.scw.cloud/tmitchell.uk/2021/05/bartee.jpg&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>A family of geese</title>

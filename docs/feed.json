@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "https://tmitchell.uk/2021/05/27/bartee",
+            "title": "Computer Architecture and Logic Design",
+            "summary": "",
+            "content_text": "This book was a recommended read for a university module I took called “Computer Architecture and Systems Software 1”. I recall a few friends and I (all taking that class, and being a bit naive)  ended up buying all the paperback copies on Amazon. Not because we’re scalpers, mind, but because it’s ~25 year old textbook - there just weren’t many available.Given it was an older book, everyone else managed to get a copy for a single penny. I say everyone else because I was a bit slow to the draw - and ended up paying £20! Worst of all, I don’t think I did anything more in-depth than skim read a few sections. Not my best purchase, that’s for certain!",
+            "content_html": "<p>This book was a recommended read for a university module I took called “Computer Architecture and Systems Software 1”. I recall a few friends and I (all taking that class, and being a bit naive)  ended up buying all the paperback copies on Amazon. Not because we’re scalpers, mind, but because it’s ~25 year old textbook - there just weren’t many available.</p><p>Given it was an older book, everyone else managed to get a copy for a single penny. I say everyone else because I was a bit slow to the draw - and ended up paying £20! Worst of all, I don’t think I did anything more in-depth than skim read a few sections. Not my best purchase, that’s for certain!</p><p><img src=\"https://s3.fr-par.scw.cloud/tmitchell.uk/2021/05/bartee.jpg\" /></p>",
+            "url": "https://tmitchell.uk/2021/05/27/bartee",
+            
+            
+            
+            "tags": ["annecdote","book"],
+            
+            "date_published": "2021-05-27T00:00:00+01:00",
+            "date_modified": "2021-05-27T00:00:00+01:00",
+            
+                "author":  {
+                "name": "Tom",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://tmitchell.uk/2021/05/26/goslings",
             "title": "A family of geese",
             "summary": "",

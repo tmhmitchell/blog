@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Computer Architecture and Logic Design",
+      "url"      : "/2021/05/27/bartee",
+      "category" : "",
+      "tags"     : "annecdote, book",
+      "date"     : "2021-05-27 00:00:00 +0100",
+      "description" : ""
+
+    } ,
+  
+    {
+
       "title"    : "A family of geese",
       "url"      : "/2021/05/26/goslings",
       "category" : "",
