@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Tom Mitchell",
-    "home_page_url": "https://tmitchell.uk/",
-    "feed_url": "https://tmitchell.uk/feed.json",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
     "description": "Blog",
-    "icon": "https://tmitchell.uk/apple-touch-icon.png",
-    "favicon": "https://tmitchell.uk/favicon.ico",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
     
     "author":  {
@@ -17,12 +17,36 @@
 "items": [
     
         {
-            "id": "https://tmitchell.uk/2021/05/27/bartee",
+            "id": "http://localhost:4000/2021/05/28/casette",
+            "title": "Spell of Unseeing - Weaving Light and Shadow",
+            "summary": "",
+            "content_text": "About a month or so ago, I discovered a genre called Dungeon Synth, thanks to a youtube channel called The Dungeon Synth Archives and  their upload of Blood Lord’s album Unwelcome Guests.As I explored, I came across Spell of Unseeing’s Weaving Light and Shadow, and thougnt it was fantastic. I was going to buy the digital album, but noticed the physical release had an extra track. I couldn’t pass up the oppourtunity to hear more!With that said, I don’t have a cassette player - yet! I’ll have to wait a couple of weeks until I’m able to listen to the exclusive sixth track.",
+            "content_html": "<p>About a month or so ago, I discovered a genre called Dungeon Synth, thanks to a youtube channel called <a href=\"https://www.youtube.com/channel/UChmm356a5qe1luUsoatAgjA\">The Dungeon Synth Archives</a> and  their upload of <a href=\"https://www.youtube.com/watch?v=mD08jlE0af4\">Blood Lord’s album Unwelcome Guests</a>.</p><p>As I explored, I came across <a href=\"https://spellofunseeing.bandcamp.com/releases\">Spell of Unseeing’s Weaving Light and Shadow</a>, and thougnt it was fantastic. I was going to buy the digital album, but noticed the physical release had an extra track. I couldn’t pass up the oppourtunity to hear more!</p><p><img src=\"https://s3.fr-par.scw.cloud/tmitchell.uk/2021/05/cassette.jpg\" /></p><p>With that said, I don’t have a cassette player - yet! I’ll have to wait a couple of weeks until I’m able to listen to the exclusive sixth track.</p>",
+            "url": "http://localhost:4000/2021/05/28/casette",
+            
+            
+            
+            
+            
+            "date_published": "2021-05-28T00:00:00+01:00",
+            "date_modified": "2021-05-28T00:00:00+01:00",
+            
+                "author":  {
+                "name": "Tom",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2021/05/27/bartee",
             "title": "Computer Architecture and Logic Design",
             "summary": "",
             "content_text": "This book was a recommended read for a university module I took called “Computer Architecture and Systems Software 1”. I recall a few friends and I (all taking that class, and being a bit naive)  ended up buying all the paperback copies on Amazon. Not because we’re scalpers, mind, but because it’s ~25 year old textbook - there just weren’t many available.Given it was an older book, everyone else managed to get a copy for a single penny. I say everyone else because I was a bit slow to the draw - and ended up paying £20! Worst of all, I don’t think I did anything more in-depth than skim read a few sections. Not my best purchase, that’s for certain!",
             "content_html": "<p>This book was a recommended read for a university module I took called “Computer Architecture and Systems Software 1”. I recall a few friends and I (all taking that class, and being a bit naive)  ended up buying all the paperback copies on Amazon. Not because we’re scalpers, mind, but because it’s ~25 year old textbook - there just weren’t many available.</p><p>Given it was an older book, everyone else managed to get a copy for a single penny. I say everyone else because I was a bit slow to the draw - and ended up paying £20! Worst of all, I don’t think I did anything more in-depth than skim read a few sections. Not my best purchase, that’s for certain!</p><p><img src=\"https://s3.fr-par.scw.cloud/tmitchell.uk/2021/05/bartee.jpg\" /></p>",
-            "url": "https://tmitchell.uk/2021/05/27/bartee",
+            "url": "http://localhost:4000/2021/05/27/bartee",
             
             
             
@@ -41,12 +65,12 @@
         },
     
         {
-            "id": "https://tmitchell.uk/2021/05/26/goslings",
+            "id": "http://localhost:4000/2021/05/26/goslings",
             "title": "A family of geese",
             "summary": "",
             "content_text": "I saw a family of geese while on the way to work this morning.My phone made them very blurry!",
             "content_html": "<p>I saw a family of geese while on the way to work this morning.</p><p>My phone made them very blurry!</p><p><img src=\"https://s3.fr-par.scw.cloud/tmitchell.uk/2021/05/goslings.jpg\" /></p>",
-            "url": "https://tmitchell.uk/2021/05/26/goslings",
+            "url": "http://localhost:4000/2021/05/26/goslings",
             
             
             
@@ -65,12 +89,12 @@
         },
     
         {
-            "id": "https://tmitchell.uk/2021/05/25/view-from-riverside-2",
+            "id": "http://localhost:4000/2021/05/25/view-from-riverside-2",
             "title": "View From Riverside #2",
             "summary": "",
             "content_text": "Painted 2021/02/01.",
             "content_html": "<p>Painted 2021/02/01.</p><p><img src=\"https://s3.fr-par.scw.cloud/tmitchell.uk/2021/05/view-from-riverside-2.jpg\" /></p>",
-            "url": "https://tmitchell.uk/2021/05/25/view-from-riverside-2",
+            "url": "http://localhost:4000/2021/05/25/view-from-riverside-2",
             
             
             
@@ -89,12 +113,12 @@
         },
     
         {
-            "id": "https://tmitchell.uk/2021/05/25/view-from-riverside",
+            "id": "http://localhost:4000/2021/05/25/view-from-riverside",
             "title": "View From Riverside #1",
             "summary": "",
             "content_text": "Painted 2021/01/25. It’s a lot less blue in person, I think the sun went in before I took the photo. 8”x10”, oil on canvas.",
             "content_html": "<p>Painted 2021/01/25. It’s a lot less blue in person, I think the sun went in before I took the photo. 8”x10”, oil on canvas.</p><p><img src=\"https://s3.fr-par.scw.cloud/tmitchell.uk/2021/05/view-from-riverside.jpg\" /></p>",
-            "url": "https://tmitchell.uk/2021/05/25/view-from-riverside",
+            "url": "http://localhost:4000/2021/05/25/view-from-riverside",
             
             
             
@@ -113,12 +137,12 @@
         },
     
         {
-            "id": "https://tmitchell.uk/2021/02/01/watercolours-week-25-01",
+            "id": "http://localhost:4000/2021/02/01/watercolours-week-25-01",
             "title": "Watercolours #1",
             "summary": "",
             "content_text": "A set of 5 watercolour paintings done over the course of the week beginning 25/01/2021.For context, I bought a cheap watercolour palette the weekend prior - two dozen colours and a few brushes for just over a tenner. They’re not brilliant quality (I suspect there’s more chalk in them than pigment), but I’m not particularly good at painting and wanted something cheap to have a mess around with. I cut an A4 sheet of “oil painting” paper into eight pieces, and tried to paint one little piece each day.PlainsRed HillsHeathBlightedAlien World(I like to imagine the pyramids are made from some sort of copper compound)",
             "content_html": "<p>A set of 5 watercolour paintings done over the course of the week beginning 25/01/2021.</p><p>For context, I bought a cheap watercolour palette the weekend prior - two dozen colours and a few brushes for just over a tenner. They’re not brilliant quality (I suspect there’s more chalk in them than pigment), but I’m not particularly good at painting and wanted something cheap to have a mess around with. I cut an A4 sheet of “oil painting” paper into eight pieces, and tried to paint one little piece each day.</p><h3 id=\"plains\">Plains</h3><p><img src=\"https://s3.fr-par.scw.cloud/tmitchell.uk/2021/01/plains.jpg\" /></p><h3 id=\"red-hills\">Red Hills</h3><p><img src=\"https://s3.fr-par.scw.cloud/tmitchell.uk/2021/01/red-hills.jpg\" /></p><h3 id=\"heath\">Heath</h3><p><img src=\"https://s3.fr-par.scw.cloud/tmitchell.uk/2021/01/heath.jpg\" /></p><h3 id=\"blighted\">Blighted</h3><p><img src=\"https://s3.fr-par.scw.cloud/tmitchell.uk/2021/01/blighted.jpg\" /></p><h3 id=\"alien-world\">Alien World</h3><p>(I like to imagine the pyramids are made from some sort of copper compound)</p><p><img src=\"https://s3.fr-par.scw.cloud/tmitchell.uk/2021/01/alien-world.jpg\" /></p>",
-            "url": "https://tmitchell.uk/2021/02/01/watercolours-week-25-01",
+            "url": "http://localhost:4000/2021/02/01/watercolours-week-25-01",
             
             
             
@@ -137,12 +161,12 @@
         },
     
         {
-            "id": "https://tmitchell.uk/2020/12/31/i-am-not-bob-ross-1",
+            "id": "http://localhost:4000/2020/12/31/i-am-not-bob-ross-1",
             "title": "I am not Bob Ross #1",
             "summary": "",
             "content_text": "My first (it shows…) attempt at oil painting, inspired by binge-watching The Joy of Painting. 8”x10”, oil on canvas.",
             "content_html": "<p>My first (it shows…) attempt at oil painting, inspired by binge-watching The Joy of Painting. 8”x10”, oil on canvas.</p><p><img src=\"https://s3.fr-par.scw.cloud/tmitchell.uk/2020/12/i-am-not-bob-ross-1.jpg\" alt=\"Perhaps you should be glad the image didn't load\" /></p>",
-            "url": "https://tmitchell.uk/2020/12/31/i-am-not-bob-ross-1",
+            "url": "http://localhost:4000/2020/12/31/i-am-not-bob-ross-1",
             
             
             
