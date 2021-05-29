@@ -9,10 +9,11 @@ permalink: pretty
 
 baseurl: ""
 
-highlighter: none
+highlighter: "rouge"
 
 exclude:
-  - .jekyll-cache
+  - ".jekyll-cache"
+  - "Makefile"
 
 compress_html:
   clippings: all
