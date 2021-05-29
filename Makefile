@@ -1,5 +1,8 @@
 build:
-	bundle exec jekyll build -s . -d ./docs
+	bundle exec jekyll build
 
 post:
 	cat frontmatter.txt > $(shell date +"_posts/%Y-%m-%d-something.md")
+
+serve:
+	bundle exec jekyll serve
