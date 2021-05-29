@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Tom Mitchell</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2021-05-29T14:37:38+01:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://tmitchell.uk/atom.xml" rel="self"/>
+ <link href="https://tmitchell.uk/"/>
+ <updated>2021-05-29T14:41:29+01:00</updated>
+ <id>https://tmitchell.uk</id>
  <author>
    <name>Tom</name>
    <email></email>
@@ -14,12 +14,12 @@
  
  <entry>
    <title>Spell of Unseeing - Weaving Light and Shadow</title>
-   <link href="http://localhost:4000/2021/05/28/casette"/>
+   <link href="https://tmitchell.uk/2021/05/28/casette"/>
    <updated>2021-05-28T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2021/05/28/casette</id>
-   <content type="html">&lt;p&gt;About a month or so ago, I discovered a genre called Dungeon Synth, thanks to a youtube channel called &lt;a href=&quot;https://www.youtube.com/channel/UChmm356a5qe1luUsoatAgjA&quot;&gt;The Dungeon Synth Archives&lt;/a&gt; and  their upload of &lt;a href=&quot;https://www.youtube.com/watch?v=mD08jlE0af4&quot;&gt;Blood Lord’s album Unwelcome Guests&lt;/a&gt;.&lt;/p&gt;
+   <id>https://tmitchell.uk/2021/05/28/casette</id>
+   <content type="html">&lt;p&gt;About a month ago, I discovered a genre called Dungeon Synth, thanks to a youtube channel called &lt;a href=&quot;https://www.youtube.com/channel/UChmm356a5qe1luUsoatAgjA&quot;&gt;The Dungeon Synth Archives&lt;/a&gt; and their upload of &lt;a href=&quot;https://www.youtube.com/watch?v=mD08jlE0af4&quot;&gt;Blood Lord’s album Unwelcome Guests&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;As I explored, I came across &lt;a href=&quot;https://spellofunseeing.bandcamp.com/releases&quot;&gt;Spell of Unseeing’s Weaving Light and Shadow&lt;/a&gt;, and thougnt it was fantastic. I was going to buy the digital album, but noticed the physical release had an extra track. I couldn’t pass up the oppourtunity to hear more!&lt;/p&gt;
+&lt;p&gt;As I explored, I came across &lt;a href=&quot;https://spellofunseeing.bandcamp.com/releases&quot;&gt;Spell of Unseeing’s Weaving Light and Shadow&lt;/a&gt;, and thought it was fantastic. I was going to buy the digital album, but noticed the physical release had an extra track. I couldn’t pass up the oppourtunity to hear more!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://s3.fr-par.scw.cloud/tmitchell.uk/2021/05/cassette.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -29,9 +29,9 @@
  
  <entry>
    <title>Computer Architecture and Logic Design</title>
-   <link href="http://localhost:4000/2021/05/27/bartee"/>
+   <link href="https://tmitchell.uk/2021/05/27/bartee"/>
    <updated>2021-05-27T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2021/05/27/bartee</id>
+   <id>https://tmitchell.uk/2021/05/27/bartee</id>
    <content type="html">&lt;p&gt;This book was a recommended read for a university module I took called “Computer Architecture and Systems Software 1”. I recall a few friends and I (all taking that class, and being a bit naive)  ended up buying all the paperback copies on Amazon. Not because we’re scalpers, mind, but because it’s ~25 year old textbook - there just weren’t many available.&lt;/p&gt;
 
 &lt;p&gt;Given it was an older book, everyone else managed to get a copy for a single penny. I say everyone else because I was a bit slow to the draw - and ended up paying £20! Worst of all, I don’t think I did anything more in-depth than skim read a few sections. Not my best purchase, that’s for certain!&lt;/p&gt;
@@ -43,9 +43,9 @@
  
  <entry>
    <title>A family of geese</title>
-   <link href="http://localhost:4000/2021/05/26/goslings"/>
+   <link href="https://tmitchell.uk/2021/05/26/goslings"/>
    <updated>2021-05-26T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2021/05/26/goslings</id>
+   <id>https://tmitchell.uk/2021/05/26/goslings</id>
    <content type="html">&lt;p&gt;I saw a family of geese while on the way to work this morning.&lt;/p&gt;
 
 &lt;p&gt;My phone made them very blurry!&lt;/p&gt;
@@ -56,9 +56,9 @@
  
  <entry>
    <title>View From Riverside #2</title>
-   <link href="http://localhost:4000/2021/05/25/view-from-riverside-2"/>
+   <link href="https://tmitchell.uk/2021/05/25/view-from-riverside-2"/>
    <updated>2021-05-25T01:00:01+01:00</updated>
-   <id>http://localhost:4000/2021/05/25/view-from-riverside-2</id>
+   <id>https://tmitchell.uk/2021/05/25/view-from-riverside-2</id>
    <content type="html">&lt;p&gt;Painted 2021/02/01.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://s3.fr-par.scw.cloud/tmitchell.uk/2021/05/view-from-riverside-2.jpg&quot; /&gt;&lt;/p&gt;
@@ -67,9 +67,9 @@
  
  <entry>
    <title>View From Riverside #1</title>
-   <link href="http://localhost:4000/2021/05/25/view-from-riverside"/>
+   <link href="https://tmitchell.uk/2021/05/25/view-from-riverside"/>
    <updated>2021-05-25T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2021/05/25/view-from-riverside</id>
+   <id>https://tmitchell.uk/2021/05/25/view-from-riverside</id>
    <content type="html">&lt;p&gt;Painted 2021/01/25. It’s a lot less blue in person, I think the sun went in before I took the photo. 8”x10”, oil on canvas.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://s3.fr-par.scw.cloud/tmitchell.uk/2021/05/view-from-riverside.jpg&quot; /&gt;&lt;/p&gt;
@@ -78,9 +78,9 @@
  
  <entry>
    <title>Watercolours #1</title>
-   <link href="http://localhost:4000/2021/02/01/watercolours-week-25-01"/>
+   <link href="https://tmitchell.uk/2021/02/01/watercolours-week-25-01"/>
    <updated>2021-02-01T00:00:00+00:00</updated>
-   <id>http://localhost:4000/2021/02/01/watercolours-week-25-01</id>
+   <id>https://tmitchell.uk/2021/02/01/watercolours-week-25-01</id>
    <content type="html">&lt;p&gt;A set of 5 watercolour paintings done over the course of the week beginning 25/01/2021.&lt;/p&gt;
 
 &lt;p&gt;For context, I bought a cheap watercolour palette the weekend prior - two dozen colours and a few brushes for just over a tenner. They’re not brilliant quality (I suspect there’s more chalk in them than pigment), but I’m not particularly good at painting and wanted something cheap to have a mess around with. I cut an A4 sheet of “oil painting” paper into eight pieces, and tried to paint one little piece each day.&lt;/p&gt;
@@ -106,9 +106,9 @@
  
  <entry>
    <title>I am not Bob Ross #1</title>
-   <link href="http://localhost:4000/2020/12/31/i-am-not-bob-ross-1"/>
+   <link href="https://tmitchell.uk/2020/12/31/i-am-not-bob-ross-1"/>
    <updated>2020-12-31T00:00:00+00:00</updated>
-   <id>http://localhost:4000/2020/12/31/i-am-not-bob-ross-1</id>
+   <id>https://tmitchell.uk/2020/12/31/i-am-not-bob-ross-1</id>
    <content type="html">&lt;p&gt;My first (it shows…) attempt at oil painting, inspired by binge-watching The Joy of Painting. 8”x10”, oil on canvas.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://s3.fr-par.scw.cloud/tmitchell.uk/2020/12/i-am-not-bob-ross-1.jpg&quot; alt=&quot;Perhaps you should be glad the image didn't load&quot; /&gt;&lt;/p&gt;
